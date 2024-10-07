@@ -1,0 +1,6 @@
+main
+	__CC2DW
+		____DoICP
+	rotate0
+	rotate90
+	rotate180
